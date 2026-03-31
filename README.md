@@ -1,6 +1,6 @@
 # Information
 
-Detta är första uppgiften med Javascript på medieinstitutet, där uppgiften är att skapa en liten online shop med 10 produkter. Man ska kunna filtrera efter tre kategoriser sött, surt, choklad och visa alla. Man ska kunna sortera på pris, betyg, kategori och bokstavsordning. Man ska kunna öka och minska antal, samt lägga till i en varukorg som uppdaterar antalet i varukorgen. Varukorgen ska dyka upp när man trycker på kassaknappen och ta en till en sammanfattning  med rabatter och totalpris och ett beställningsformulär. Beställningsformuläret får validering av RegEx och har en timer på 15 min som rensar varukorgen/checkout, formuläret och ger en alert. 
+Detta är första uppgiften med Javascript på medieinstitutet, där uppgiften är att skapa en liten online shop med 10 produkter. Man ska kunna filtrera efter tre kategoriser sött, surt, choklad och visa alla. Man ska kunna sortera på pris, betyg, kategori och bokstavsordning. Man ska kunna öka och minska antal, samt lägga till i en varukorg som uppdaterar antalet i varukorgen. Varukorgen ska dyka upp när man trycker på kassaknappen och ta en till en sammanfattning  med rabatter och totalpris och ett beställningsformulär. Beställningsformuläret får validering av RegEx och har en timer på 15 min som rensar varukorgen/checkout, formuläret och ger en alert.  
 
 ## Använda tekniker
 
